@@ -549,7 +549,6 @@
 0.0.0.0 lightminer.co
 0.0.0.0 lingeriestyling.com
 0.0.0.0 listat.biz
-0.0.0.0 live.4480.org
 0.0.0.0 livelyoffers.club
 0.0.0.0 lmeeulcfttqv.ru
 0.0.0.0 lmodr.biz
@@ -649,7 +648,6 @@
 0.0.0.0 nkxdyorwbt.com
 0.0.0.0 nnna.ru
 0.0.0.0 noblock.pro
-0.0.0.0 node.coin-hive.com
 0.0.0.0 norespar.ru
 0.0.0.0 novaminers.tk
 0.0.0.0 now.sh
