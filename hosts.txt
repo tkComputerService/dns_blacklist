@@ -699,7 +699,6 @@
 0.0.0.0 projectpoi.com
 0.0.0.0 proofly.win
 0.0.0.0 propellant.dk
-0.0.0.0 proxy.mytestminer.xyz
 0.0.0.0 prsrjdr.ru
 0.0.0.0 punchsub.net
 0.0.0.0 pushno.com
