@@ -135,7 +135,6 @@
 0.0.0.0 bizoninvest.com
 0.0.0.0 bjorksta.men
 0.0.0.0 blockchained.party
-0.0.0.0 blue-js.github.io
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
 0.0.0.0 bmnadutub.ru
@@ -153,7 +152,6 @@
 0.0.0.0 candid.zone
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 carrel.services
-0.0.0.0 carry.myeffect.net
 0.0.0.0 casarenodirect.com
 0.0.0.0 cashbeet.com
 0.0.0.0 ccvwtdtwyu.trade
@@ -175,7 +173,6 @@
 0.0.0.0 chainblock.science
 0.0.0.0 chinanet.cn.net
 0.0.0.0 chmproxy.bid
-0.0.0.0 chws.browsermine.com
 0.0.0.0 cieh.mx
 0.0.0.0 cinemafacil.com
 0.0.0.0 clgserv.pro
@@ -279,7 +276,6 @@
 0.0.0.0 demo.webxmr.com
 0.0.0.0 depttake.ga
 0.0.0.0 devappgrant.space
-0.0.0.0 developer.jsecoin.com
 0.0.0.0 devphp.org.ua
 0.0.0.0 dexim.space
 0.0.0.0 didnkinrab.com
@@ -413,7 +409,6 @@
 0.0.0.0 goredirect.party
 0.0.0.0 gossipslots.eu
 0.0.0.0 goxmrminer.com
-0.0.0.0 grafana.xmrpool.net
 0.0.0.0 graftpool.ovh
 0.0.0.0 gramombird.com
 0.0.0.0 greece-search.com
@@ -442,7 +437,6 @@
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
 0.0.0.0 horrorscopeme.ml
-0.0.0.0 host.d-ns.ga
 0.0.0.0 hostingcloud.accountant
 0.0.0.0 hostingcloud.bid
 0.0.0.0 hostingcloud.date
@@ -570,7 +564,6 @@
 0.0.0.0 megabanners.cf
 0.0.0.0 mepirtedic.com
 0.0.0.0 mercy.ga
-0.0.0.0 metrika.ron.si
 0.0.0.0 mfio.cf
 0.0.0.0 mhiobjnirs.gq
 0.0.0.0 minecrunch.co
@@ -736,7 +729,6 @@
 0.0.0.0 rencohep.com
 0.0.0.0 renhertfo.com
 0.0.0.0 reservedoffers.club
-0.0.0.0 resources.gocollette.com
 0.0.0.0 retadint.com
 0.0.0.0 rigbyandpellershop.com
 0.0.0.0 rineventrec.com
@@ -783,7 +775,6 @@
 0.0.0.0 spacepools.org
 0.0.0.0 sparechange.io
 0.0.0.0 sparnove.com
-0.0.0.0 specialdeals.g5e.com
 0.0.0.0 sptlkiyjsglayc.ru
 0.0.0.0 squitter.eu
 0.0.0.0 srcip.com
@@ -798,10 +789,8 @@
 0.0.0.0 stonecalcom.com
 0.0.0.0 str1kee.com
 0.0.0.0 strdef.world
-0.0.0.0 stream.vidzi.tv
 0.0.0.0 streambeam.io
 0.0.0.0 streamdream.ws
-0.0.0.0 streaming.estream.to
 0.0.0.0 streamplay.me
 0.0.0.0 streamplay.to
 0.0.0.0 subloader.cf
@@ -811,8 +800,6 @@
 0.0.0.0 svivqrhrh.ru
 0.0.0.0 swanson.ron.si
 0.0.0.0 swiftmining.win
-0.0.0.0 sxcdn1.herokuapp.com
-0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 synconnector.com
 0.0.0.0 tainiesonline.pw
 0.0.0.0 tainiesonline.stream
@@ -822,13 +809,10 @@
 0.0.0.0 template-download.top
 0.0.0.0 teramill.com
 0.0.0.0 terethat.ru
-0.0.0.0 testnet-api.xmrpool.net
 0.0.0.0 tgtvbngp.ru
 0.0.0.0 thathislitt.ru
 0.0.0.0 thatresha.com
 0.0.0.0 theappguruz.com
-0.0.0.0 thelifeisbinary.ddns.net
-0.0.0.0 thelifeisbinary.netlify.com
 0.0.0.0 thepiratebay.cr
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay.wtf
@@ -836,7 +820,6 @@
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
-0.0.0.0 three-jj.github.io
 0.0.0.0 thunderkick.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 tinypop.com
@@ -924,7 +907,6 @@
 0.0.0.0 wmtech.website
 0.0.0.0 wmwmwwfmkvucbln.ru
 0.0.0.0 wnmyerzbjhu.ru
-0.0.0.0 wo15.coinhive.com
 0.0.0.0 wordc.ga
 0.0.0.0 worker.salon.com
 0.0.0.0 wp-monero-miner.de
