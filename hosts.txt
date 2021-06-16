@@ -908,7 +908,6 @@
 0.0.0.0 wmwmwwfmkvucbln.ru
 0.0.0.0 wnmyerzbjhu.ru
 0.0.0.0 wordc.ga
-0.0.0.0 worker.salon.com
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wronpeci.com
