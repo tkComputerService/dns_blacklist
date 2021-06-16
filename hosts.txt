@@ -610,7 +610,6 @@
 0.0.0.0 mylovesister.gq
 0.0.0.0 myoffers.bid
 0.0.0.0 myoffers.party
-0.0.0.0 mysite.irkdsu.ru
 0.0.0.0 mytestminer.xyz
 0.0.0.0 nablabee.com
 0.0.0.0 nahnoji.cz
@@ -668,7 +667,6 @@
 0.0.0.0 pascal1.science
 0.0.0.0 pascal3.science
 0.0.0.0 pasoherb.gq
-0.0.0.0 pat.ron.si
 0.0.0.0 pazl1.ru
 0.0.0.0 pcejuyhjucmkiny.ru
 0.0.0.0 pdheuryopd.loan
@@ -697,7 +695,6 @@
 0.0.0.0 projectpoi.com
 0.0.0.0 proofly.win
 0.0.0.0 propellant.dk
-0.0.0.0 proxy.mytestminer.xyz
 0.0.0.0 prsrjdr.ru
 0.0.0.0 punchsub.net
 0.0.0.0 pushno.com
@@ -716,7 +713,6 @@
 0.0.0.0 realnetwrk.com
 0.0.0.0 reasedoper.pw
 0.0.0.0 reauthenticator.com
-0.0.0.0 red-js.github.io
 0.0.0.0 redlights.be
 0.0.0.0 redlights.de
 0.0.0.0 redlights.nl
@@ -903,7 +899,6 @@
 0.0.0.0 wmwmwwfmkvucbln.ru
 0.0.0.0 wnmyerzbjhu.ru
 0.0.0.0 wordc.ga
-0.0.0.0 worker.salon.com
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wronpeci.com
