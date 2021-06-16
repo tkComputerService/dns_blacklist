@@ -117,6 +117,7 @@
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 appelamule.com
 0.0.0.0 aqqgli3vle.bid
+0.0.0.0 arbor.net
 0.0.0.0 arizona-miner.tk
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 as.cfcnet.top
@@ -245,6 +246,7 @@
 0.0.0.0 charlie.directprimal.com
 0.0.0.0 charlie.noblock.pro
 0.0.0.0 charlie2.directprimal.com
+0.0.0.0 chinanet.cn.net
 0.0.0.0 chmproxy.bid
 0.0.0.0 chws.browsermine.com
 0.0.0.0 cieh.mx
@@ -586,6 +588,7 @@
 0.0.0.0 intellecthosting.net
 0.0.0.0 interestingz.pw
 0.0.0.0 inwemo.com
+0.0.0.0 ipvolume.net
 0.0.0.0 ipv6.freebitco.in
 0.0.0.0 irrrymucwxjl.ru
 0.0.0.0 istlandoll.com
@@ -1008,6 +1011,7 @@
 0.0.0.0 refreshnerer27.info
 0.0.0.0 refreshnerer27rb.info
 0.0.0.0 refunevent.com
+0.0.0.0 reliablesite.net
 0.0.0.0 rencohep.com
 0.0.0.0 renhertfo.com
 0.0.0.0 reservedoffers.club
@@ -1017,6 +1021,7 @@
 0.0.0.0 rineventrec.com
 0.0.0.0 rintindown.com
 0.0.0.0 rintinwa.com
+0.0.0.0 rm-injinering.ru
 0.0.0.0 rmawm7mw.top
 0.0.0.0 rock.directprimal.com
 0.0.0.0 rock.webmine.pro
@@ -1104,6 +1109,7 @@
 0.0.0.0 seed2.nimiqtest.net
 0.0.0.0 seed3.nimiqtest.net
 0.0.0.0 seed4.nimiqtest.net
+0.0.0.0 selectel.ru
 0.0.0.0 sen-to-zdrowie.ml
 0.0.0.0 sentemanactri.com
 0.0.0.0 sentry.nullrefexcep.com
@@ -1133,6 +1139,7 @@
 0.0.0.0 sparnove.com
 0.0.0.0 specialdeals.g5e.com
 0.0.0.0 sptlkiyjsglayc.ru
+0.0.0.0 squitter.eu
 0.0.0.0 sr.cookiescript.info
 0.0.0.0 srcip.com
 0.0.0.0 srv01.bitcoiner.win
@@ -1243,6 +1250,7 @@
 0.0.0.0 ullnot.download
 0.0.0.0 ulnawoyyzbljc.ru
 0.0.0.0 ultra-cdn.pl
+0.0.0.0 ukr.net
 0.0.0.0 universidadedoingles.com.br
 0.0.0.0 unrummaged.com
 0.0.0.0 uoldid.ru
